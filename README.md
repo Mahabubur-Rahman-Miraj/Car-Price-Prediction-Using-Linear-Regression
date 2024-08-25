@@ -54,14 +54,3 @@ Contributions are welcome! If you'd like to contribute to this project, please o
 
 ## License
 This project is licensed under the MIT License. See the \`LICENSE\` file for details." > README.md
-
-# Add the README.md file to the staging area
-git add README.md
-
-# Commit the README.md file
-git commit -m "Add README file for linear regression second-hand car price prediction project"
-
-# Push the changes to your GitHub repository (you must set the remote repository first)
-git remote add origin https://github.com/your-username/Linear-Regression-Second-Hand-Car-Price-Prediction.git
-git branch -M main
-git push -u origin main
